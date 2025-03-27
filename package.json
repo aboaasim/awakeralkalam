@@ -9,9 +9,34 @@
     <span class="hljs-attr">"preview"</span><span class="hljs-punctuation">:</span> <span class="hljs-string">"vite preview"</span>
   <span class="hljs-punctuation">}</span><span class="hljs-punctuation">,</span>
   <span class="hljs-attr">"dependencies"</span><span class="hljs-punctuation">:</span> <span class="hljs-punctuation">{</span>
+    <span class="hljs-attr">"@radix-ui/react-alert-dialog"</span><span class="hljs-punctuation">:</span> <span class="hljs-string">"^1.0.5"</span><span class="hljs-punctuation">,</span>
+    <span class="hljs-attr">"@radix-ui/react-avatar"</span><span class="hljs-punctuation">:</span> <span class="hljs-string">"^1.0.3"</span><span class="hljs-punctuation">,</span>
+    <span class="hljs-attr">"@radix-ui/react-checkbox"</span><span class="hljs-punctuation">:</span> <span class="hljs-string">"^1.0.4"</span><span class="hljs-punctuation">,</span>
+    <span class="hljs-attr">"@radix-ui/react-dialog"</span><span class="hljs-punctuation">:</span> <span class="hljs-string">"^1.0.5"</span><span class="hljs-punctuation">,</span>
+    <span class="hljs-attr">"@radix-ui/react-dropdown-menu"</span><span class="hljs-punctuation">:</span> <span class="hljs-string">"^2.0.5"</span><span class="hljs-punctuation">,</span>
+    <span class="hljs-attr">"@radix-ui/react-label"</span><span class="hljs-punctuation">:</span> <span class="hljs-string">"^2.0.2"</span><span class="hljs-punctuation">,</span>
+    <span class="hljs-attr">"@radix-ui/react-slot"</span><span class="hljs-punctuation">:</span> <span class="hljs-string">"^1.0.2"</span><span class="hljs-punctuation">,</span>
+    <span class="hljs-attr">"@radix-ui/react-tabs"</span><span class="hljs-punctuation">:</span> <span class="hljs-string">"^1.0.4"</span><span class="hljs-punctuation">,</span>
+    <span class="hljs-attr">"@radix-ui/react-toast"</span><span class="hljs-punctuation">:</span> <span class="hljs-string">"^1.1.5"</span><span class="hljs-punctuation">,</span>
+    <span class="hljs-attr">"@radix-ui/react-slider"</span><span class="hljs-punctuation">:</span> <span class="hljs-string">"^1.1.2"</span><span class="hljs-punctuation">,</span>
+    <span class="hljs-attr">"class-variance-authority"</span><span class="hljs-punctuation">:</span> <span class="hljs-string">"^0.7.0"</span><span class="hljs-punctuation">,</span>
+    <span class="hljs-attr">"clsx"</span><span class="hljs-punctuation">:</span> <span class="hljs-string">"^2.0.0"</span><span class="hljs-punctuation">,</span>
+    <span class="hljs-attr">"framer-motion"</span><span class="hljs-punctuation">:</span> <span class="hljs-string">"^10.16.4"</span><span class="hljs-punctuation">,</span>
+    <span class="hljs-attr">"lucide-react"</span><span class="hljs-punctuation">:</span> <span class="hljs-string">"^0.285.0"</span><span class="hljs-punctuation">,</span>
     <span class="hljs-attr">"react"</span><span class="hljs-punctuation">:</span> <span class="hljs-string">"^18.2.0"</span><span class="hljs-punctuation">,</span>
     <span class="hljs-attr">"react-dom"</span><span class="hljs-punctuation">:</span> <span class="hljs-string">"^18.2.0"</span><span class="hljs-punctuation">,</span>
+    <span class="hljs-attr">"react-router-dom"</span><span class="hljs-punctuation">:</span> <span class="hljs-string">"^6.16.0"</span><span class="hljs-punctuation">,</span>
+    <span class="hljs-attr">"tailwind-merge"</span><span class="hljs-punctuation">:</span> <span class="hljs-string">"^1.14.0"</span><span class="hljs-punctuation">,</span>
+    <span class="hljs-attr">"tailwindcss-animate"</span><span class="hljs-punctuation">:</span> <span class="hljs-string">"^1.0.7"</span>
+  <span class="hljs-punctuation">}</span><span class="hljs-punctuation">,</span>
+  <span class="hljs-attr">"devDependencies"</span><span class="hljs-punctuation">:</span> <span class="hljs-punctuation">{</span>
+    <span class="hljs-attr">"@types/node"</span><span class="hljs-punctuation">:</span> <span class="hljs-string">"^20.8.3"</span><span class="hljs-punctuation">,</span>
+    <span class="hljs-attr">"@types/react"</span><span class="hljs-punctuation">:</span> <span class="hljs-string">"^18.2.15"</span><span class="hljs-punctuation">,</span>
+    <span class="hljs-attr">"@types/react-dom"</span><span class="hljs-punctuation">:</span> <span class="hljs-string">"^18.2.7"</span><span class="hljs-punctuation">,</span>
     <span class="hljs-attr">"@vitejs/plugin-react"</span><span class="hljs-punctuation">:</span> <span class="hljs-string">"^4.0.3"</span><span class="hljs-punctuation">,</span>
+    <span class="hljs-attr">"autoprefixer"</span><span class="hljs-punctuation">:</span> <span class="hljs-string">"^10.4.16"</span><span class="hljs-punctuation">,</span>
+    <span class="hljs-attr">"postcss"</span><span class="hljs-punctuation">:</span> <span class="hljs-string">"^8.4.31"</span><span class="hljs-punctuation">,</span>
+    <span class="hljs-attr">"tailwindcss"</span><span class="hljs-punctuation">:</span> <span class="hljs-string">"^3.3.3"</span><span class="hljs-punctuation">,</span>
     <span class="hljs-attr">"vite"</span><span class="hljs-punctuation">:</span> <span class="hljs-string">"^4.4.5"</span>
   <span class="hljs-punctuation">}</span>
 <span class="hljs-punctuation">}</span>

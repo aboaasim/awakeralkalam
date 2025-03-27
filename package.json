@@ -1,21 +1,17 @@
-{
-  "name": "awakeralkalam",
-  "private": true,
-  "version": "0.0.0",
-  "type": "module",
-  "scripts": {
-    "dev": "vite",
-    "build": "vite build",
-    "preview": "vite preview"
-  },
-  "dependencies": {
-    "react": "^18.2.0",
-    "react-dom": "^18.2.0"
-  },
-  "devDependencies": {
-    "@types/react": "^18.2.15",
-    "@types/react-dom": "^18.2.7",
-    "@vitejs/plugin-react": "^4.0.3",
-    "vite": "^4.4.5"
-  }
-}
+<span class="hljs-punctuation">{</span>
+  <span class="hljs-attr">"name"</span><span class="hljs-punctuation">:</span> <span class="hljs-string">"awakeralkalam"</span><span class="hljs-punctuation">,</span>
+  <span class="hljs-attr">"private"</span><span class="hljs-punctuation">:</span> <span class="hljs-literal"><span class="hljs-keyword">true</span></span><span class="hljs-punctuation">,</span>
+  <span class="hljs-attr">"version"</span><span class="hljs-punctuation">:</span> <span class="hljs-string">"0.0.0"</span><span class="hljs-punctuation">,</span>
+  <span class="hljs-attr">"type"</span><span class="hljs-punctuation">:</span> <span class="hljs-string">"module"</span><span class="hljs-punctuation">,</span>
+  <span class="hljs-attr">"scripts"</span><span class="hljs-punctuation">:</span> <span class="hljs-punctuation">{</span>
+    <span class="hljs-attr">"dev"</span><span class="hljs-punctuation">:</span> <span class="hljs-string">"vite"</span><span class="hljs-punctuation">,</span>
+    <span class="hljs-attr">"build"</span><span class="hljs-punctuation">:</span> <span class="hljs-string">"vite build"</span><span class="hljs-punctuation">,</span>
+    <span class="hljs-attr">"preview"</span><span class="hljs-punctuation">:</span> <span class="hljs-string">"vite preview"</span>
+  <span class="hljs-punctuation">}</span><span class="hljs-punctuation">,</span>
+  <span class="hljs-attr">"dependencies"</span><span class="hljs-punctuation">:</span> <span class="hljs-punctuation">{</span>
+    <span class="hljs-attr">"react"</span><span class="hljs-punctuation">:</span> <span class="hljs-string">"^18.2.0"</span><span class="hljs-punctuation">,</span>
+    <span class="hljs-attr">"react-dom"</span><span class="hljs-punctuation">:</span> <span class="hljs-string">"^18.2.0"</span><span class="hljs-punctuation">,</span>
+    <span class="hljs-attr">"@vitejs/plugin-react"</span><span class="hljs-punctuation">:</span> <span class="hljs-string">"^4.0.3"</span><span class="hljs-punctuation">,</span>
+    <span class="hljs-attr">"vite"</span><span class="hljs-punctuation">:</span> <span class="hljs-string">"^4.4.5"</span>
+  <span class="hljs-punctuation">}</span>
+<span class="hljs-punctuation">}</span>

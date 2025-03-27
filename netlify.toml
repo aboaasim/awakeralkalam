@@ -1,8 +1,5 @@
-<span class="hljs-section">[build]</span>
-  <span class="hljs-attr">command</span> = <span class="hljs-string">"npm run build"</span>
-  <span class="hljs-attr">publish</span> = <span class="hljs-string">"dist"</span>
-
-<span class="hljs-section">[[redirects]]</span>
-  <span class="hljs-attr">from</span> = <span class="hljs-string">"/*"</span>
-  <span class="hljs-attr">to</span> = <span class="hljs-string">"/index.html"</span>
-  <span class="hljs-attr">status</span> = <span class="hljs-number">200</span>
+[[redirects]]
+  from = "/*"
+  to = "/index.html"
+  status = 200
+  
